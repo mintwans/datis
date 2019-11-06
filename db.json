@@ -1,5 +1,5 @@
 {
-  "airports" : [
+  "airport" : [
     {
       "id": 1,
       "airport": "VTBD",

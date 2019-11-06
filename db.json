@@ -1,94 +1,40 @@
 {
-  "airport" : [
+  "airports" : [
     {
       "id": 1,
-      "airport": "VTBD",
-      "agency": "JET ASIA",
-      "tailNo": "A1234",
+      "catisTerminal": "VTBD",
       "type": "Arrival",
-      "receivedTime": "1572134400",
-      "responseTime": "1572134438"
+      "ipAddress": "107.86.60.137"
     },
     {
       "id": 2,
-      "airport": "VTBS",
-      "agency": "BANGKOK AIR",
-      "tailNo": "B1234",
-      "type": "Arrival",
-      "receivedTime": "1572134538",
-      "responseTime": "1572134542"
+      "catisTerminal": "VTBD",
+      "type": "Departure",
+      "ipAddress": "59.241.175.174"
     },
     {
       "id": 3,
-      "airport": "VTBD",
-      "agency": "NOK AIR",
-      "tailNo": "C1234",
+      "catisTerminal": "VTBS",
       "type": "Arrival",
-      "receivedTime": "1572134756",
-      "responseTime": "1572134762"
+      "ipAddress": "200.187.186.146"
     },
     {
       "id": 4,
-      "airport": "VTBD",
-      "agency": "NOK AIR",
-      "tailNo": "C1234",
+      "catisTerminal": "VTBS",
       "type": "Departure",
-      "receivedTime": "1572134951",
-      "responseTime": "1572134997"
+      "ipAddress": "154.53.222.138"
     },
     {
       "id": 5,
-      "airport": "VTCC",
-      "agency": "AIR ASIA",
-      "tailNo": "D1234",
-      "type": "Departure",
-      "receivedTime": "1572135272",
-      "responseTime": "1572135301"
+      "catisTerminal": "VTCC",
+      "type": "Combined",
+      "ipAddress": "141.36.233.164"
     },
     {
       "id": 6,
-      "airport": "VTSS",
-      "agency": "BANGKOK AIR",
-      "tailNo": "E1234",
-      "type": "Departure",
-      "receivedTime": "1572136331",
-      "responseTime": "1572136351"
-    },
-    {
-      "id": 7,
-      "airport": "VTCC",
-      "agency": "NOK AIR",
-      "tailNo": "F1234",
-      "type": "Departure",
-      "receivedTime": "1572136878",
-      "responseTime": "1572136883"
-    },
-    {
-      "id": 8,
-      "airport": "VTBS",
-      "agency": "NOK AIR",
-      "tailNo": "G1234",
-      "type": "Arrival",
-      "receivedTime": "1572137113",
-      "responseTime": "1572137131"
-    },
-    {
-      "id": 9,
-      "airport": "VTBD",
-      "agency": "NOK AIR",
-      "tailNo": "H1234",
-      "type": "Arrival",
-      "receivedTime": "1572137568",
-      "responseTime": "1572137586"
-    },
-    {
-      "id": 10,
-      "airport": "VTBB",
-      "agency": "AIR ASIA",
-      "tailNo": "I1234",
-      "type": "Departure",
-      "receivedTime": "1572137949",
-      "responseTime": "1572138002"
+      "catisTerminal": "VTSS",
+      "type": "Combined",
+      "ipAddress": "27.56.82.20"
     }
   ]
 }
